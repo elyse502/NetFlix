@@ -8,7 +8,7 @@ Welcome to the Netflix Clone web app! This project is a simple yet stylish recre
 * **Play Trailer:** Watch trailers for selected movies by clicking the "Play" button.
 
 ## How to Use:
-1. **Visit the App**: Open the app in your web browser ➡️ .
+1. **Visit the App**: Open the app in your web browser.
 2. **Featured Content**: The home page displays a featured movie or series. Click the "Play" button to start watching or add it to your "My List."
 3. **Netflix Originals**: Explore exclusive Netflix Originals in the dedicated section.
 4. **Movie Categories**: Scroll through different movie categories like Wishlist, Trending Now, and Top Rated. Click on a movie to view its details.
