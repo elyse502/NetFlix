@@ -24,3 +24,6 @@ Welcome to the Netflix Clone web app! This project is a simple yet stylish recre
 If you'd like to contribute to the development of this Netflix Clone, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
 
 Enjoy the Netflix Clone experience, and happy watching!
+
+
+
